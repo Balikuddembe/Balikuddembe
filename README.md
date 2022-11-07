@@ -9,7 +9,7 @@ Hey there!
 <img src='./Images/handshake.gif' width="100px">
 </h3>
 <p align="center">
-<a href="https://twitter.com/EmmanuelBaliku1">
+<a href="https://twitter.com/BalixEmma">
   <img align="center" alt="Emmanuel Balikuddembe | Twitter" width="44px" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
 </a>
 
