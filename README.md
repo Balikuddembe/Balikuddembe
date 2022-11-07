@@ -44,7 +44,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 if you like what i do, maybe consider buying for me a pizza 🥺👉👈
 
-<a href="https://www.buymeapizza.com/balikuddembe" target="_blank"><img src="https://ih1.redbubble.net/image.2534181810.5420/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="Buy Me A Pizza" width="120" ></a>
+<a href="" target="_blank"><img src="https://ih1.redbubble.net/image.2534181810.5420/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="Buy Me A Pizza" width="120" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->         
