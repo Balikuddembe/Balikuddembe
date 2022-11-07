@@ -1,17 +1,10 @@
 <h1 align="center">
-<img src="./Images/Earth.gif" width="24px">
 Hey there!
-<img src="./Images/Hi.gif" width="40px" />, I'm Emmanuel Balikuddembe 👨‍💻
+<img src="./Images/Hi.gif" width="40px" />, I'm Emmanuel Balikuddembe
 </h1>
 <h3 align="center">I'm currently a Student at Microverse.🌱
 </h3>
 
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=I%E2%80%99m+currently+learning+......;HTML.............;CSS.............;JavaScript..............;React...................;Ruby..................;RoR.......................;Cheers+and+Happy+Learning........"><img>
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+meeting+you....;software+Engineer+from+Uganda;Pair-programming%2Cremote+work+devotee;Self+taught+developer;Happy+Learning+and+coding">
-</img> -->
-</p>
 <h3 align="center">Connect with me:
 <img src='./Images/handshake.gif' width="100px">
 </h3>
