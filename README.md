@@ -24,8 +24,6 @@ Hi, i'm Balikuddembe Emmanuel, a passionate self-taught full stack software Engi
 
 I am also an open-source enthusiast and maintainer. I have learnt a lot from the open-source community,on-line bootcamps and i love how collaboration and knowledge sharing happen through open-source.
 
-
-<img align="right" alt="GIF" src="./Images/animation.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:balixemma@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
