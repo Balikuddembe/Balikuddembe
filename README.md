@@ -46,8 +46,8 @@ if you like what i do, maybe consider buying for me a pizza 🥺👉👈
 
 <a href="" target="_blank"><img src="https://ih1.redbubble.net/image.2534181810.5420/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="Buy Me A Pizza" width="120" ></a>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->         
+🚧 **my todolist stats:**
+<!-- TODO-LIST:START -->         
 🌸  Completed 2 tasks today           
 ✅  Completed 673 tasks so far           
 ⏳  Longest streak is 10 days
