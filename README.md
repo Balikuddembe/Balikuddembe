@@ -56,7 +56,7 @@ if you like what i do, maybe consider buying for me a pizza 🥺👉👈
 
 📈<strong> My GitHub Stats</strong>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Balikuddembe&show_icons=true&locale=en" alt="Balikuddembe" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Balikuddembe&show_icons=true&theme=radical" alt="Balikuddembe" />
 
 
 
