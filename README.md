@@ -20,12 +20,14 @@ Hey there!
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Balikuddembe.visitor-badge)
 
-Hi, i'm Balikuddembe Emmanuel, a passionate self-taught full stack software Engineer from Uganda in EastAfrica. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm Balikuddembe Emmanuel, a passionate self-taught full stack developer from Uganda in EastAfrica.I have learnt a lot from the open-source community,on-line bootcamps and i love how collaboration and knowledge sharing happen through open-source.
 
-I am also an open-source enthusiast and maintainer. I have learnt a lot from the open-source community,on-line bootcamps and i love how collaboration and knowledge sharing happen through open-source.
-
-  
-- 💼 any freelance work? do reach, [email](mailto:balixemma@gmail.com) :)
+- 🤔 I’m currently networking and **looking for opportunities for a professional job**.
+- 🤗 I’m a **team player,collaborative** and **always ready to help others**.
+- 🤝 I’m a **passionate communicator** and **always ready to share knowledge**.
+- 📫 How to reach me: <a href="mailto:balixemma@gmail.com">Send an Email</a>.
+- 🌐 Link to my personal Website: <a href="https://balikuddembe.github.io/Personal-Portfolio/">Here</a>. 
+- 💼 any freelance work? do reach, [email](mailto:balixemma@gmail.com)
 - 💬 ask me about anything, i am happy to help;
 
 <h3>languages and tools:</h3>
