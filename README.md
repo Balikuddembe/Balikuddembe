@@ -36,7 +36,14 @@ if you like what i do, maybe consider buying for me a pizza 🥺👉👈
 
 <a href="" target="_blank"><img src="https://ih1.redbubble.net/image.2534181810.5420/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="Buy Me A Pizza" width="120" ></a>
 
-[![Balikuddembe's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Balikuddembe&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=tokyonight)](https://github.com/Balikuddembe)
+## GitHub stats 🚀:
+
+<p>
+<a href="https://github.com/Balikuddembe">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Balikuddembe&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=tokyonight" />
+</a>
+</p>
+
 
 
 
