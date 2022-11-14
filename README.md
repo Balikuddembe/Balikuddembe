@@ -2,7 +2,7 @@
 Hey there!
 <img src="./Images/Hi.gif" width="40px" />, I'm Emmanuel Balikuddembe
 </h1>
-<h3 align="center">I'm currently a Student at Microverse.🌱
+<h3 align="center">I'm currently a Student at Microverse learning through real world projects🌱
 </h3>
 
 <h3 align="center">Connect with me:
