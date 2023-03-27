@@ -24,10 +24,14 @@ Hi, i'm Balikuddembe Emmanuel, a passionate self-taught full stack developer fro
 
 - 🤔 I’m currently networking and **looking for opportunities for a professional job**.
 - 🤗 I’m a **team player,collaborative** and **always ready to help others**.
-- 🤝 2022 Goals: Contribute more to open source projects
+- 🤝 2023 Goals: Contribute more to open source projects
 - 💼 any freelance work? do reach, [email](mailto:balixemma@gmail.com).
 - 🌐 Link to my personal Website: <a href="https://balikuddembe.github.io/Personal-Portfolio/">Here</a>. 
 - 💬 ask me about anything, i am happy to help;
+- 💻 I'm currently available for jobs, I'll be happy to hear about your job offer ❤️
+- ⚡ Fun fact I like playing games and coding for fun
+
+
 
 <h3>languages and tools:</h3>
 <img src="./Images/languages.PNG"></img>
