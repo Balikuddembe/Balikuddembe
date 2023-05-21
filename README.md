@@ -2,22 +2,7 @@
 Hey there!
 <img src="./Images/Hi.gif" width="40px" />, I'm Emmanuel Balikuddembe
 </h1>
-<h3 align="center">I'm currently a Student at Microverse learning through real world projects🌱
-</h3>
-
-<h3 align="center">Connect with me:
-<img src='./Images/handshake.gif' width="100px">
-</h3>
-<p align="center">
-<a href="https://twitter.com/BalixEmma">
-  <img align="center" alt="Emmanuel Balikuddembe | Twitter" width="44px" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
-</a>
-
-<a href="https://www.linkedin.com/in/emmanuelbalikuddembe/">
-  <img align="center" alt="emmanuel's LinkedIN" width="44px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-</p>
-
+  
 ![](https://visitor-badge.glitch.me/badge?page_id=Balikuddembe.visitor-badge)
 
 Hi, i'm Balikuddembe Emmanuel, a passionate self-taught full stack developer from Uganda in EastAfrica.I have learnt a lot from the open-source community,on-line bootcamps and i love how collaboration and knowledge sharing happen through open-source.
