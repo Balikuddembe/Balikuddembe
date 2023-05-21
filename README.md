@@ -3,8 +3,6 @@ Hey there!
 <img src="./Images/Hi.gif" width="40px" />, I'm Emmanuel Balikuddembe
 </h1>
   
-![](https://visitor-badge.glitch.me/badge?page_id=Balikuddembe.visitor-badge)
-
 Hi, i'm Balikuddembe Emmanuel, a passionate self-taught full stack developer from Uganda in EastAfrica.I have learnt a lot from the open-source community,on-line bootcamps and i love how collaboration and knowledge sharing happen through open-source.
 
 - 🔭 I'm currently working on the migration of the ANS-SMS-APP from **PHP** to **Java (Backend)** and **React (Frontend)**. This migration aims to enhance the app's **performance** and **scalability** while ensuring a seamless transition. The ANS-SMS-APP serves as a **safety management system** for the Directorate of Air Navigation Services of UCAA, enabling efficient reporting and analysis of aircraft and workplace incidents, occurrences, and hazards.
