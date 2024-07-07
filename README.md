@@ -5,11 +5,11 @@ Hey there!
   
 Hi, i'm Balikuddembe Emmanuel, a passionate self-taught full stack developer from Uganda in EastAfrica.I have learnt a lot from the open-source community,on-line bootcamps and i love how collaboration and knowledge sharing happen through open-source.
 
-- 🔭 I'm currently working on the migration of the ANS-SMS-APP from **PHP** to **Java (Backend)** and **React (Frontend)**. This migration aims to enhance the app's **performance** and **scalability** while ensuring a seamless transition. The ANS-SMS-APP serves as a **safety management system** for the Directorate of Air Navigation Services of UCAA, enabling efficient reporting and analysis of aircraft and workplace incidents, occurrences, and hazards.
-- I'm actively seeking remote full stack software developer position, where I can apply my expertise in both frontend and backend technologies effectively.
-- 🤝 2023 Goals: Contribute more to open source projects
-- 🌐 Link to my personal Website: <a href="https://balikuddembe.github.io/Personal-Portfolio/">Here</a>. 
-- 💬 ask me about anything in Soccer;
+- 🔭  I’m currently working on a migration of a Safety Management System from a PHP Framwork to a Java Framework & React Front End. Also working on a Library Management System for a High school in React and Java Spring.
+- My most recent accomplishment: Developed a React Native Expo app (with a Java Backend) that helps farmers purchase farming supplies on credit basing on their credit score and integrated it with the MTN Mobile Money API. The app won the hackathon.
+- ☎️ I’m on the look out for remote full stack web development opportunities
+-  My next learning goals are developing cloud based solutions (using AWS) & using CI/CD tools (such as Docker)
+- 💬 ask me anything about Soccer.
 - ⚡ Fun fact: I find joy in both coding and gaming. 
 
 <h3>languages and tools:</h3>
